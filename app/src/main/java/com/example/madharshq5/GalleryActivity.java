@@ -2,7 +2,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.GridView;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.Madharshq5.R;
+import com.example.madharshq5.R;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
